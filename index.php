@@ -64,7 +64,7 @@ if(isset($_POST['apply-now'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>klk;lInternational Medical University</title>
+    <title>International Medical University</title>
 
     <!--vendor css ================================================== -->
     <link rel="stylesheet" type="text/css" href="css/vendor.css">
